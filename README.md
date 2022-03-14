@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @WilliamHaddix
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning C++ and Multiplayer NETCode for Unreal Engine 4
+- 💞️ I’m looking to collaborate on Indie Dev Projects
+- 📫 How to reach me:
+- 
+- Email: Williamdavidhaddix@gmail.com
+- Twitter: https://twitter.com/RealWillHaddix
+- Itch.io: https://willhaddix.itch.io
+- Instagram: https://www.instagram.com/willhaddixlife/
