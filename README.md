@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WilliamHaddix
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C++ and Multiplayer NETCode for Unreal Engine 4
+- 🌱 I’m currently learning C++ and Multiplayer NETCode for Unreal Engine 4 and Godot
 - 💞️ I’m looking to collaborate on Indie Dev Projects
 - 📫 How to reach me:
 - 
